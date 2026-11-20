@@ -1,0 +1,4 @@
+<resources>
+    <color name="track_pressed">#D9CEF5</color>
+    <color name="track_selected">#E7DFF8</color>
+</resources>

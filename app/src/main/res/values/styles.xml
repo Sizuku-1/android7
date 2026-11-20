@@ -1,0 +1,21 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#4E41A6</item>
+        <item name="android:windowBackground">#F6F4FC</item>
+        <item name="android:statusBarColor">#F6F4FC</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/track_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="PlayerButton" parent="@android:style/Widget.Material.Button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:paddingEnd">0dp</item>
+        <item name="android:backgroundTint">#66518F</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

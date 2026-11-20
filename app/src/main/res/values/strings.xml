@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">唐熙鹏 2024080538</string>
+    <string name="library">本地音乐</string>
+    <string name="refresh">刷新</string>
+    <string name="no_track">尚未选择歌曲</string>
+    <string name="ready">就绪</string>
+    <string name="loading">正在加载</string>
+    <string name="playing">正在播放</string>
+    <string name="paused">已暂停</string>
+    <string name="stopped">已停止</string>
+    <string name="failed">无法播放此文件</string>
+    <string name="empty">没有找到音频。将音频复制到 Music 文件夹后，点击刷新。</string>
+    <string name="permission_required">请允许读取设备中的音频，然后点击刷新。</string>
+    <string name="query_failed">读取音频列表失败，请点击刷新重试。</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="previous">上一首</string>
+    <string name="next">下一首</string>
+    <string name="stop">停止</string>
+    <string name="channel">音乐播放</string>
+    <string name="seek">播放进度</string>
+    <string name="count">%1$d 首</string>
+    <string name="time">%1$02d:%2$02d</string>
+</resources>
